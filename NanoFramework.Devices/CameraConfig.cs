@@ -6,6 +6,8 @@ namespace NanoFramework.Devices
     /// </summary>
     class CameraConfig
     {
+
+
         /// <summary>
         /// GPIO pin for camera power down line (If not needed set to -1)
         /// Default = 32
